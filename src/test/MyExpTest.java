@@ -20,5 +20,6 @@ public class MyExpTest {
     public static void main(String[] args) throws IOException {
         System.out.println("aaa");
         System.out.println("aaa");
+        System.out.println("aaa");
     }
 }
