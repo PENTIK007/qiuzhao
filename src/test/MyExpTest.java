@@ -18,8 +18,6 @@ import java.util.*;
  */
 public class MyExpTest {
     public static void main(String[] args) throws IOException {
-        byte[] addr = {(byte)192,(byte)168,24,56};
-        InetAddress atguigu = InetAddress.getByAddress(addr);
-        System.out.println(atguigu);
+
     }
 }
