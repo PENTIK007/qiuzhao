@@ -11,7 +11,7 @@ import java.util.Scanner;
  */
 public class Client2 {
     public static void main(String[] args) throws Exception {
-        // 1、准备Socket，连接服务器，需要指定服务器的IP地址和端口号
+        // 1、准备Socket，连接服务器，需要指定服务器的IP地址和端口号 11111
         Socket socket = new Socket("127.0.0.1", 8888);
 
         // 2、获取输出流，用来发送数据给服务器
