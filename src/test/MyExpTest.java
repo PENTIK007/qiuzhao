@@ -20,6 +20,10 @@ public class MyExpTest {
     public static void main(String[] args) throws IOException {
         System.out.println("aaa");
         System.out.println("aaa");
+<<<<<<< HEAD
         System.out.println("aaa");//1111
+=======
+        System.out.println("dev");
+>>>>>>> dev
     }
 }
